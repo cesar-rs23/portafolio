@@ -1,6 +1,6 @@
 # portafolio
 
-<a href="https://cesar-rs23.github.io/portafolio/"> Visualiza mi repositorio</a>
+<a href="https://cesar-rs23.github.io/portafolio/index.html"> Visualiza mi repositorio</a>
 
 
 
